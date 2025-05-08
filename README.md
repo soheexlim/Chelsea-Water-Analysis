@@ -43,11 +43,11 @@ The dataset includes 4,966 account records from Chelsea's water billing system, 
 Recommended visualizations to include in your notebook and portfolio:
 
 - Quadratic Regression Plot: `CurrentWaterCharge ~ MeterSize + MeterSize²`
-- ![Quadratic regression of water charge by meter size](images/quadratic_regression_meter_size.png)
+- <img src="images/quadratic_regression_meter_size.png" alt="Quadratic Regression Plot" width="500"/>
 - Boxplot: `CurrentTotalDue` across `UsageCategory` (tiered pricing visualization)
-- ![Boxplot showing total due by usage category](images/boxplot_usage_category.png)
+- <img src="images/boxplot_usage_category.png" alt="Boxplot showing total due by usage category" width="500"/>
 - Scatterplot Matrix: `Usage21`, `Usage32`, `Usage43` (identify seasonal anomalies)
-- ![Scatterplot matrix of water usage across months](images/scatterplot_matrix_usage.png)
+- <img src="images/scatterplot_matrix_usage.png" alt="Scatterplot matrix of water usage across months" width="500"/>
 
 ---
 
