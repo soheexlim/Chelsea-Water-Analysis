@@ -99,7 +99,7 @@ This project includes a linear regression analysis conducted in **Stata** to exa
 - **Use Data for Targeted Policy Adjustments**  
   Leverage findings to revise pricing strategies that better balance conservation, fairness, and revenue stability.
 
---
+---
 
 ## Limitations
 
