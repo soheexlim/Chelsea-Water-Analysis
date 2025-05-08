@@ -55,6 +55,11 @@ Recommended visualizations to include in your notebook and portfolio:
 
 ### Regression Model (Stata)
 
+This project includes a linear regression analysis conducted in **Stata** to examine how water usage, meter size, and property type influence billing amounts. The model evaluates the significance and impact of:
+
+- `MeterSize` and its squared term (to capture non-linearity)
+- `PropertyType` (residential vs. commercial)
+- `SeniorDiscount` eligibility
 
 ---
 
